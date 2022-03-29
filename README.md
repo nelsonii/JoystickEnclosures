@@ -26,5 +26,6 @@ SLIDER requires:
 TRACKPOINT requires:
  Adafruit QT PY
  Cirque Pinnacle TrackPoint 35mm sensor (Mouser)
+ Use Super Glue to close the case (I'm looking at using screws instead).
  
  Print flat surfaces down! You may need to rotate the DISC 180 in your slicer.
