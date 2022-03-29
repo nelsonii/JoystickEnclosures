@@ -22,3 +22,9 @@ SLIDER requires:
  
  Print flat surfaces down! You may need to rotate the TOP 180 in your slicer.
 
+
+TRACKPOINT requires:
+ Adafruit QT PY
+ Cirque Pinnacle TrackPoint 35mm sensor (Mouser)
+ 
+ Print flat surfaces down! You may need to rotate the DISC 180 in your slicer.
