@@ -2,8 +2,8 @@
 
 The printable STLs are found here. 
 
-I do not provide source code for the models, as I sell these as products. Need to pay the rent!
-
+For complete ready-to-go products, check out my ETSY store.
+https://www.etsy.com/shop/SevenMileMountain
 
 PALM requires:
  Arduino Pro Micro
@@ -26,6 +26,17 @@ SLIDER requires:
 TRACKPOINT requires:
  Adafruit QT PY
  Cirque Pinnacle TrackPoint 35mm sensor (Mouser)
- Use Super Glue to close the case (I'm looking at using screws instead).
+ Use Super Glue to close the case.
  
  Print flat surfaces down! You may need to rotate the DISC 180 in your slicer.
+
+
+JOYCON requires:
+ Arduino Pro Micro
+ JoyCon Replacement Stick (Amazon)
+ 4Layer Breakout Board for JoyCon
+ (2) M1.6-3 screws for joystick
+ (1) M2-3 screw for breakout board
+ (2) M3-12 screws for case
+ 
+ Print flat surfaces down! You may need to rotate the TOP 180 in your slicer.
