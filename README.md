@@ -28,7 +28,7 @@ TRACKPOINT requires:
  Cirque Pinnacle TrackPoint 35mm sensor (Mouser)
  Use Super Glue to close the case.
  
- Print flat surfaces down! You may need to rotate the DISC 180 in your slicer.
+ Print flat surfaces down! You may need to rotate the DISC 180 in your slicer. SolderingJig also needs to be rotated 180 (flat side down). The Jig helps hold the sensor during soldering.
 
 
 JOYCON requires:
