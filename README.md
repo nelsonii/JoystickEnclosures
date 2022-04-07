@@ -1,6 +1,6 @@
 # Joystick Enclosures
 
-The printable STLs are found here. 
+The printable STLs are found here. OpenSCAD measurements available for non-commercial use. Please PM me.
 
 For complete ready-to-go products, check out my ETSY store.
 https://www.etsy.com/shop/SevenMileMountain
