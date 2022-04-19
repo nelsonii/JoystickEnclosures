@@ -26,6 +26,11 @@ SLIDER requires:
  Print flat surfaces down! You may need to rotate the TOP 180 in your slicer.
 
 
+* Newest Cirque sensors are now found under CirquePoint
+* The TrackPoint folder is being deprecated!
+
+
+
 TRACKPOINT requires:
  Adafruit QT PY
  Cirque Pinnacle TrackPoint 35mm sensor (Mouser)
