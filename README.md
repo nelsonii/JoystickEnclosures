@@ -26,7 +26,7 @@ SLIDER requires:
  Print flat surfaces down! You may need to rotate the TOP 180 in your slicer.
 
 CIRQUEPOINT requires:
-* Adafruit QTPy -or- Adafruit KB2040
+* Adafruit QTPy SAMD21 -or- Adafruit KB2040
 * Cirque Pinnacle GlidePoint 35mm Sensor. KB2040 supports 40mm Sensor. (Mouser)
 * Cases now snap together. Use super glue to lock closed.
 
@@ -51,3 +51,11 @@ JOYCON requires:
  * (2) M3-12 screws for case
  
  Print flat surfaces down! You may need to rotate the TOP 180 in your slicer.
+ 
+ 
+ NUNCHUCK Requires:
+ 
+* Adafruit QTPy SAMD21
+* Generic Wii Nunchuck
+* Use Super Glue to close the case.
+* 
