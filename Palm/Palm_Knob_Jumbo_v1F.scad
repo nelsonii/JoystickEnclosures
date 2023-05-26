@@ -18,8 +18,8 @@ difference(){
       color("blue") down(diam/2) cuboid([diam,diam,diam]); //remove bottom
     }
     color("green") cylinder(h=(diam/2)-shaftAdjust, d=15); //center shaft
-    color("teal") rotate([0,0,45]) up(4/2) cuboid([diam-3,4,4]); //shaft support 
-    color("teal") rotate([0,0,130]) up(4/2) cuboid([diam-3,4,4]); //shaft support 
+    color("teal") rotate([0,0,0]) up(4/2) cuboid([diam-3,4,4]); //shaft support 
+    color("teal") rotate([0,0,90]) up(4/2) cuboid([diam-3,4,4]); //shaft support 
     }
  //joy post cutout     
  color("lime") zrot(45) up(2) #cuboid([4,3,8], fillet=.5);
